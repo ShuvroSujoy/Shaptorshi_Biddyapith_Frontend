@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.container {
+    max-width: 1440px;
+    padding: 0px 10px;
+    margin: 0 auto;
+}
+
+.active {
+    text-decoration-color: rgb(200, 36, 36);
+}
+
+.text-width {
+    max-width: 400px;
+}
+
+.header-text-width {
+    max-width: 800px;
+}
